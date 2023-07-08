@@ -1,136 +1,123 @@
 <img src="icon.png" align="right" />
 
-# Awesome README [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
-> A curated list of awesome READMEs
+# Harika README [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+> Harika README'lerın derlenmiş bir listesi
 
-Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
+Güzel README'lerin öğeleri arasında, (bunlarla sınırlı olmamak üzere) resimler, ekran görüntüleri, GIF'ler, metin biçimlendirme öğeleri vb. bulunur.
 
-## Examples
+## Örnekler
 
-- [ai/size-limit](https://github.com/ai/size-limit#readme) - Project logo, clear description, screenshot, step-by-step installing instructions.
-- [aimeos/aimeos-typo3](https://github.com/aimeos/aimeos-typo3#readme) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide#readme) - Badges, project GIF, concise description, quick links, stepwise installation instructions.
-- [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup#readme) - Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.
-- [alichtman/stronghold](https://github.com/alichtman/stronghold#readme) - Project logo. Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.
-- [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify#readme) - Project logo. Minimalist description of what it is. GIF demo of the project. Key features. How to install guide. Credits.
-- [amplication/amplication](https://github.com/amplication/amplication#readme) - Clear project logo. Brief explanation. All features explained. Clean documentation. Useful links (website, docs, discord). List of contributors with their pictures and usernames.
-- [anfederico/Clairvoyant](https://github.com/anfederico/Clairvoyant#readme) - Multiple badges. Clean logo. Simple install instructions. Clear overview of the project accompanied by a schematic. GIF demo. Extensive code examples.
-- [ankitwasankar/mftool-java](https://github.com/ankitwasankar/mftool-java#readme) - Project logo with a short display of what can be achieved with it, TOC for easy navigation, important badges, clean installation guide, and multiple code snippets showing how to use the functionality.
-- [aregtech/areg-sdk](https://github.com/aregtech/areg-sdk#readme) - Logo. Multiple info and statistics badges. List of contributors and stargazers with pictures. TOC and "Back to top" links for easy navigation. Headlines with graphics. Topic hide/show menu. Project description and philosophy. Clone and integration instructions. Quick build with multiple tools. Tools configuration instructions. Reference to examples and Demo projects. Reference to use cases. References to guidance and Wiki pages. Links with badges to contact. Links with badges to share project in social network.
-- [Armync/Arminc-AutoExec](https://github.com/ArmynC/ArminC-AutoExec/#readme) - Rich Markdown functions, modern layout, clear description and compliant with the recommended community standards.
-- [athityakumar/colorls](https://github.com/athityakumar/colorls#readme) - Multiple badges. Clean screenshots. Simple install instructions. TOC for easy navigation. Good contributor guidelines.
-- [ccostan/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig#readme) - Project Banner. Badges. Easy navigation.
-- [choojs/choo](https://github.com/choojs/choo#readme) - Badges, clean, clear. Beautiful little menu above the fold with useful links. An FAQ inside of it for the main questions. Backers. Good language.
-- [chroline/well_app](https://github.com/chroline/well_app#readme) - Features attention-grabbing project thumbnail with clean badges, as well as download information and quick navigation links. Organized into multiple descriptive sections, each of which have a title with a yellow emoji. Includes details about the project itself, as well as the technologies used and how to contribute.
-- [create-go-app/cli](https://github.com/create-go-app/cli#readme) - Clean project logo. Useful badges (version, code style, test cover, docs). Clear readme with quickstart, understandable installation and usage manual, video screencast, ToC with well-documented project features (with a demo recording of the work in the terminal), project philosophy notes ("the why another"), most frequently asked questions, and more.
-- [Day8/re-frame](https://github.com/Day8/re-frame#readme) - Badges, logo, TOC, etc. Stands out by being a giant, well-written essay about the tech, how to use it, the philosophy behind it, and how it fits into the greater ecosystem.
-- [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core#readme) - Project banner, super clear description (friendly to people brand new to the product), screenshot of the docs the tool generates, and concise links to other comprehensive pages explaining Getting Started, Joining the dbt Community, Bug Reports, Code Contribution, and Code of Conduct
-- [dowjones/react-dropdown-tree-select](https://github.com/dowjones/react-dropdown-tree-select#readme) - Clear readme with GIF screenshot for quick demo. Multiple badges, concise ToC, online playground, storybook, detailed description and more.
-- [easybase/easybase-react](https://github.com/easybase/easybase-react#readme) - Project banner and logo. Badges. Expandable walkthrough sections. Concise description and purpose. TOC for easy navigation. GIFs for installation demo. Multiple informative visuals.
-- [emalderson/thephish](https://github.com/emalderson/ThePhish#readme) - Project logo, informative badges, useful TOC, clear description, screenshots, step-by-step installation and configuration guide, contributor guidelines, code of conduct, UML diagrams, coherent tags, issue and pull request templates, well-documented and well-commented code, examples.
-- [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator#readme) - TOC for easy navigation. Concise project description. Installation and usage sections. Output example. Great feature overview. List of alternatives. FAQ.
-- [gitpoint/git-point](https://github.com/gitpoint/git-point#readme) - Clear description. Project Logo. App Store logos. TOC. Clean screenshots. List of features. Detailed installation process. Landing Page.
-- [gofiber/fiber](https://github.com/gofiber/fiber#readme) - Clean project logo. Useful badges and links (languages switcher, code style, test cover, docs, Discord channel). Clear description of what the project does with quickstart, benchmark charts, well-documented code examples (with the ability to hide long content), project philosophy notes ("the why of project"), tables with project addons, list of contributors, star growth statistics, and more.
-- [Hexworks/Zircon](https://github.com/Hexworks/zircon#readme) - Dogfood in readme. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
-- [httpie/httpie](https://github.com/httpie/httpie#readme) - Description of what the project does. Demo screenshots. Project logo. TOC for easy navigation. Build badges. Quick and simple installation and usage sections. Includes an examples section.
-- [iharsh234/WebApp](https://github.com/iharsh234/WebApp#readme) - Project landing page. Clear description of what the project does. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses and a mobile demo section.
-- [iterative/dvc](https://github.com/iterative/dvc#readme) - ReStructuredText format example, PyPi compatible. Logo, custom website-like menu. Smooth how-it-works animation. Badges. Nice contribution section with the hall-of-fame.
-- [ivanperez-keera/Yampa](https://github.com/ivanperez-keera/Yampa#readme) - Clear description. Feature list. TOC for easy navigation. Simple install instructions. Usage code samples. Project samples with GIFs and links to app stores. Documentation and publications. Clear development / contribution rules.
-- [karan/joe](https://github.com/karan/joe#readme) - Project logo. Clear description of what the project does. GIF demo. Easy install and usage sections.
-- [kopach/karma-sabarivka-reporter](https://github.com/kopach/karma-sabarivka-reporter#readme) - Project logo. Useful badges, clear readme with screenshots for quick demo. Concise ToC.
-- [L0garithmic/FastColabCopy](https://github.com/L0garithmic/FastColabCopy#readme) - Project logo. Minimalist description. Badges. GIF demo. About The Project. How To Use. Examples. Credits. Additional Examples. 
-- [ma-shamshiri/Human-Activity-Recognition](https://github.com/ma-shamshiri/Human-Activity-Recognition#readme) - Beautiful table of contents. Project logo. Animated project banner. Complete project folder structure. Clear description of what the project does. Nice contributors’ section. Easy navigation.
-- [ma-shamshiri/Pacman-Game](https://github.com/ma-shamshiri/Pacman-Game#readme) - Beautiful table of contents. Project logo. Animated project banner. Suitable GIFs to display each part of the project. Complete list of project files in the repo along with their function. Complete execution instruction.
-- [ma-shamshiri/Spam-Detector](https://github.com/ma-shamshiri/Spam-Detector#readme) - Complete project file description. Project logo. Animated project banner. Concise project description. Clear execution instruction.
-- [MananTank/radioactive-state](https://github.com/MananTank/radioactive-state#readme) - Badges (version, downloads, coverage, size), Twitter Intent, Project Logo, Feature list, Motivation, Installation, Example with GIFs, Emojis, Collapsible Sections, Live Demos, API detailed usage, FAQs, Chat link.
-- [Martinsos/edlib](https://github.com/Martinsos/edlib#readme) - Informative badges (build, version, publication). Concise description. Feature list. TOC. Screenshots. Concise instructions with examples for building and including in your project. Common code examples to get you started quickly.
-- [NASA/ogma](https://github.com/NASA/ogma#readme) - Clear description. Feature list. Demo GIFs. Simple install instructions. Usage code samples. TOC for easy navigation.
-- [ngcolombia/medellin](https://github.com/ngcolombia/medellin#readme) - Project banner. Badges for stats. Well placed emoticons. Contributor's photos.
-- [nhn/tui.editor](https://github.com/nhn/tui.editor#readme) - Project logo. Clear overview of project features with a demo GIF. Badges. TOC for easy navigation. Colorful icons in front of titles.
-- [node-chat](https://github.com/IgorAntun/node-chat#readme) - Project screenshot. Informative badges. Clear description. Easy installation/use instructions. Live demo.
-- [NSRare/NSGIF](https://github.com/NSRare/NSGIF#readme) - Project logo. GIF Demo. Usage artwork. Usage code samples.
-- [OliverOverend/gym-simplifiedtetris](https://github.com/OliverOverend/gym-simplifiedtetris#readme) - GIF demo. Short description of the project. Badges. TOC. Installation and usage instructions, with copy-pastable comments and dependencies. Contributing file. Overview of the environments and agents provided.
-- [php-censor/php-censor](https://github.com/php-censor/php-censor#readme) - Multiple badges, project logo, screenshots, step-by-step installing and upgrading instructions, TOC for easy navigation.
-- [PostHog/posthog](https://github.com/PostHog/posthog#readme) - Custom-made section icons, demo GIF, deploy button, profile images for contributors, concise, clear structure, project logo.
-- [priyavrat-misra/xrays-and-gradcam](https://github.com/priyavrat-misra/xrays-and-gradcam#readme) - TOC for easy navigation. Clear introduction of what the project does. Complete list of all files in the repo and what their function is. Usage section. Clean and concise tables.
-- [React on lambda](https://github.com/sultan99/react-on-lambda#readme) - Project logo, comics to present the main idea, badges, examples with code snippets, demo projects, api documentations, editor configurations.
-- [React Parallax Tilt](https://github.com/mkosir/react-parallax-tilt#readme) - GIF demo. Multiple badges. Feature list. Great live demo with code examples. Easy to follow instructions for local development set up.
-- [Rebilly/redoc](https://github.com/Redocly/redoc#readme) - Multiple badges, project logo, live demo link, GIF-animations of the key features, TL;DR usage.
-- [refinedev/refine](https://github.com/refinedev/refine#readme) - Clean project logo. Brief description at top. Multiple badges. Usage description and examples. Use cases and demo links. Screenshots. Key Features. Contributors. Stargazers. Contribution guidelines.
-- [release-it/release-it](https://github.com/release-it/release-it#readme) - Clear overview of project features with a demo GIF. Badges. Expandable TOC. Usage description and examples. Contribution guidelines. Detailed releases.
-- [rstacruz/hicat](https://github.com/rstacruz/hicat#readme) - GIF demo. Easy installation and setup sections with screenshots. Build badges. Great examples of use cases.
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts#readme) - Clean project logo. Brief description at top. Sankey diagram, quick links, badges, OS specific icons, TOC, detailed release changelog.
-- [sebyddd/SDVersion](https://github.com/sebyddd/SDVersion#readme) - Project logo. Build badges. Documentation structuring for multiple programming languages. Usage examples.
-- [shama/gaze](https://github.com/shama/gaze#readme) - Project logo. Concise description. Feature list. Usage section. FAQ. Great API documentation. Release history.
-- [sidneycadot/oeis](https://github.com/sidneycadot/oeis#readme) - Overview. List of required dependencies. Complete list of all files in the repo and what their function is. Visual graph of how it all ties together.
-- [sindresorhus/pageres](https://github.com/sindresorhus/pageres#readme) - Project logo. Clear description of what the project does. Build badges. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses.
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard#readme) - Project logo. Build and test/coverage badges. Transition from plain description to people-oriented description. Animated GIF showing usage. Custom banners for clearly laid out sections. Custom text assets for headers. Immediate call to action with Quick Start section. Consistent and easy to read command names and signatures. Three immediate options for getting help provided. Easter eggs provided for the detail-oriented.
-- [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app#readme) - Clean animated screenshot. Customized call to action badge. Usage showcase.
-- [sr6033/lterm](https://github.com/sr6033/lterm#readme) - Clean logo using characters. Brief updates on development. Detailed contribution guidelines. Contribution suggestions.
-- [Stack-in-a-box/triumphmayflowerclub.com](https://github.com/Stack-in-a-box/triumphmayflowerclub.com#readme) - Stands-out because, while only a simple website, it is presented as a very open project for lesser-experienced developers to cut their teeth on, with a friendly, inclusive tone and accessible set-up instructions. Includes many common elements found in other beautiful READMEs.
-- [sulu/sulu](https://github.com/sulu/sulu#readme) - Project logo, useful badges, clear instructions on where to find more information and report bugs, GIF screenshots, nice use of emoticons.
-- [supunlakmal/thismypc](https://github.com/supunlakmal/thismypc#readme) - Project logo. Useful badges. Web site URL. Screenshot. GIF step-by-step instructions for installation. Project folder structure.
-- [teles/array-mixer](https://github.com/teles/array-mixer#readme) - Clean project logo, badges. Table of contents. Contributing section. Many illustrated examples.
-- [thelounge/thelounge](https://github.com/thelounge/thelounge#readme) - Project logo. Useful badges and links (website, docs, demo). Screenshot. Feature list. Step-by-step instructions for installation, development, and testing. Link to the contributing guide. Good mobile summary.
-- [themerdev/themer](https://github.com/themerdev/themer#readme) - Project logo. Visual description (flowchart) of what the project does. Build badges. TOC. Demo screenshot. Concise install and usage sections, including common workflows. Colorful previews.
-- [vhesener/Closures](https://github.com/vhesener/Closures#readme) - Project logo, cognitive funnel, animated examples. Color coordinated. Clean documentation.
-- [xnbox/DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP#readme) - Original hero section. Clear navigation. Minimalist design. Appendices.
-- [zenml-io/zenml](https://github.com/zenml-io/zenml#readme) - Clean project logo. Useful TOC. Clear code examples amongst feature list. Quickstart example.
+- [ai/size-limit](https://github.com/ai/size-limit#readme) - Proje logosu, net bir açıklama, ekran görüntüsü, adım adım kurulum talimatları.
+- [aimeos/aimeos-typo3](https://github.com/aimeos/aimeos-typo3#readme) - Proje logosu, projenin ne yaptığına dair net bir açıklama, demo ekran görüntüsü, kolay gezinme için İçindekiler bölümü, kolay kurulum ve yapılandırma bölümleri ile ekran görüntüleri, daha fazla okuma için linkler gibi öğeler.
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide#readme) - Badgeler, proje GIF'i, özlü açıklama, hızlı linkler ve adım adım kurulum talimatları gibi öğeler.
+- [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup#readme) - Projenin ne yaptığını net bir şekilde açıklayan açıklama, projenin nasıl çalıştığını gösteren bir GIF, kolay gezinme için İçindekiler bölümü, projeye özgü özellikleri veya durumları temsil eden rozetler, daha fazla okuma için linkler gibi öğeler, basit kurulum talimatları.
+- [alichtman/stronghold](https://github.com/alichtman/stronghold#readme) - Projenin ne yaptığını net bir şekilde açıklayan açıklama, projenin nasıl çalıştığını gösteren bir GIF, kolay gezinme için İçindekiler bölümü, projeye özgü özellikleri veya durumları temsil eden rozetler, daha fazla okuma için linkler gibi öğeler, basit kurulum talimatları.
+- [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify#readme) - Proje logosu, projenin ne olduğunu minimalist bir şekilde açıklayan tanım, projenin çalışmasını gösteren bir GIF, ana özellikler, kurulum kılavuzu, teşekkürler ve katkıda bulunanlar.
+- [amplication/amplication](https://github.com/amplication/amplication#readme) - Temiz proje logosu. kısa bir açıklama. Tüm özelliklerin açıklandığı şekilde. Temiz belgelendirme. Faydalı bağlantılar (web sitesi, belgeler, Discord). Katkıda bulunanların resimleri ve kullanıcı adlarıyla birlikte listesi.
+- [anfederico/Clairvoyant](https://github.com/anfederico/Clairvoyant#readme) - Birden fazla rozet. Temiz logo. Basit kurulum talimatları. Projeye ilişkin açık bir genel bakış, bir şema eşliğinde. GIF demo. Kapsamlı kod örnekleri.
+- [ankitwasankar/mftool-java](https://github.com/ankitwasankar/mftool-java#readme) - Proje logosu, onunla elde edilebilecek kısa bir gösterim, kolay navigasyon için bir içindekiler listesi, önemli rozetler, temiz kurulum rehberi ve işlevselliği nasıl kullanacağınızı gösteren birden fazla kod parçası.
+- [aregtech/areg-sdk](https://github.com/aregtech/areg-sdk#readme) - Logo. Birden fazla bilgi ve istatistik rozeti. Fotoğraflarla katkıda bulunanların ve beğenenlerin listesi. Kolay gezinme için TOC ve "Başa dön" bağlantıları. Grafiklerle başlıklar. Konu gizle/göster menüsü. Proje açıklaması ve felsefesi. Klonlama ve entegrasyon talimatları. Birden fazla araçla hızlı derleme. Araç yapılandırma talimatları. Örnekler ve Demo projelerine referans. Kullanım örneklerine referans. Rehberlik ve Wiki sayfalarına referans. İletişim için rozetli bağlantılar. Projenin sosyal ağlarda paylaşılması için rozetli bağlantılar.
+- [Armync/Arminc-AutoExec](https://github.com/ArmynC/ArminC-AutoExec/#readme) - Zengin Markdown fonksiyonları, modern düzen, açıklayıcı açıklama ve önerilen topluluk standartlarına uygun.
+- [athityakumar/colorls](https://github.com/athityakumar/colorls#readme) - Birden fazla rozet. Temiz ekran görüntüleri. Basit kurulum talimatları. Kolay gezinme için TOC. İyi katkıda bulunan rehberi.
+- [ccostan/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig#readme) - Proje bannerı. Rozetler. Kolay gezinme.
+- [choojs/choo](https://github.com/choojs/choo#readme) - Rozetler, temiz, açık. Yararlı bağlantılarla katlanabilir bir menü. Ana sorular için içindeki bir SSS. Destekçiler. İyi dil.
+- [chroline/well_app](https://github.com/chroline/well_app#readme) - Dikkat çekici projenin resmiyle temiz rozetler, ayrıca indirme bilgileri ve hızlı gezinme bağlantıları. Birden fazla açıklayıcı bölüme ayrılmış, her biri sarı emoji ile başlık içeriyor. Projeye, kullanılan teknolojilere ve nasıl katkıda bulunulacağına dair detayları içeriyor.
+- [create-go-app/cli](https://github.com/create-go-app/cli#readme) - Temiz proje logosu. Faydalı rozetler (sürüm, kod stili, test kapsama, belgeler). Hızlı başlangıçla anlaşılabilir kurulum ve kullanım kılavuzu, video ekran görüntüsü, iyi belgelenmiş proje özelliklerini içeren TOC (terminalde çalışmanın demo kaydıyla), proje felsefesi notları ("neden başka bir tane"), en sık sorulan sorular ve daha fazlası.
+- [Day8/re-frame](https://github.com/Day8/re-frame#readme) - Rozetler, logo, TOC vb. Teknoloji hakkında dev bir, iyi yazılmış bir deneme, nasıl kullanılacağı, ardındaki felsefe ve daha büyük ekosisteme nasıl uyum sağlayacağı hakkında.
+- [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core#readme) - Proje bannerı, ürüne yeni başlayanlara dostane olan açıklayıcı açıklama, aracın oluşturduğu belgelerin ekran görüntüsü ve Başlarken, dbt Topluluğuna Katılma, Hata Bildirimi, Kod Katkısı ve Davranış Kuralları gibi diğer kapsamlı sayfalar için özgün bağlantılar.
+- [dowjones/react-dropdown-tree-select](https://github.com/dowjones/react-dropdown-tree-select#readme) - Hızlı bir demo için GIF ekran görüntüsü ile temiz açıklama. Birden fazla rozet, özgün ToC, çevrimiçi oyun alanı, hikaye kitabı, detaylı açıklama ve daha fazlası.
+- [easybase/easybase-react](https://github.com/easybase/easybase-react#readme) - Proje bannerı ve logo. Rozetler. Genişletilebilir gezinme bölümleri. Kısa açıklama ve amaç. Kolay gezinme için TOC. Kurulum demosu için GIF'ler. Birden fazla bilgilendirici görsel.
+- [emalderson/thephish](https://github.com/emalderson/ThePhish#readme) - Proje logosu, bilgilendirici rozetler, hızlı demo için kullanışlı TOC, açıklayıcı açıklama, ekran görüntüleri, adım adım kurulum ve yapılandırma kılavuzu, katkı rehberleri, davranış kuralları, UML diyagramları, tutarlı etiketler, sorun ve çekme isteği şablonları, iyi belgelenmiş ve iyi açıklanmış kod, örnekler.
+- [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator#readme) - Kolay gezinme için TOC. Açıklayıcı proje açıklaması. Kurulum ve kullanım bölümleri. Çıktı örneği. Harika özellik genel bakışı. Alternatiflerin listesi. SSS.
+- [gitpoint/git-point](https://github.com/gitpoint/git-point#readme) - Açıklayıcı açıklama. Proje logosu. App Store logoları. TOC. Temiz ekran görüntüleri. Özellik listesi. Detaylı kurulum süreci. Ana Sayfa.
+- [gofiber/fiber](https://github.com/gofiber/fiber#readme) - Temiz proje logosu. Faydalı rozetler ve bağlantılar (diller değiştirici,
+
+kod stili, test kapsama, belgeler, Discord kanalı). Projenin ne yaptığına dair açıklayıcı açıklama, hızlı başlangıç, performans tabloları, iyi belgelenmiş kod örnekleri (uzun içeriği gizleme yeteneğiyle), proje felsefesi notları ("projenin nedeni"), proje eklentileri için tablolar, katkıda bulunanların listesi, yıldız büyüme istatistikleri ve daha fazlası.
+- [Hexworks/Zircon](https://github.com/Hexworks/zircon#readme) - Readme'de kendi yazılımını kullanma. Projenin ne yaptığına dair açıklayıcı açıklama. Demo ekran görüntüsü. Kolay gezinme için TOC. Ekran görüntülerini görmek için kolay kurulum ve yapılandırma bölümleri. Daha fazla okuma için bağlantılar.
+- [httpie/httpie](https://github.com/httpie/httpie#readme) - Projenin ne yaptığının açıklaması. Demo ekran görüntüleri. Proje logosu. Kolay gezinme için TOC. Yapı rozetleri. Basit ve anlaşılır kurulum ve kullanım bölümleri. Örnekler bölümü içerir.
+- [iharsh234/WebApp](https://github.com/iharsh234/WebApp#readme) - Proje ana sayfası. Projenin ne yaptığının açıklaması. Demo ekran görüntüsü. Basit kurulum ve kullanım bölümleri. Ortak kullanımlarla ilgili örnekler ve mobil demo bölümü içerir.
+- [iterative/dvc](https://github.com/iterative/dvc#readme) - Yeniden Yapılandırılmış Metin biçimi örneği, PyPi ile uyumlu. Logo, özel web sitesi benzeri menü. Nasıl çalıştığına dair pürüzsüz animasyon. Rozetler. İhtişamlı bir katkı bölümü.
+- [ivanperez-keera/Yampa](https://github.com/ivanperez-keera/Yampa#readme) - Açıklayıcı açıklama. Özellik listesi. Kolay gezinme için TOC. Basit kurulum talimatları. Kullanım kod örnekleri. GIF'ler ve uygulama mağazalarına bağlantılarla projelerin örnekleri. Belgeler ve yayınlar. Açık geliştirme/katkı kuralları.
+- [karan/joe](https://github.com/karan/joe#readme) - Proje logosu. Projenin ne yaptığının açıklaması. GIF demo. Kolay kurulum ve kullanım bölümleri.
+- [kopach/karma-sabarivka-reporter](https://github.com/kopach/karma-sabarivka-reporter#readme) - Proje logosu. Faydalı rozetler, hızlı demo için ekran görüntüleri olan açıklayıcı readme. Açıklayıcı ToC.
+- [L0garithmic/FastColabCopy](https://github.com/L0garithmic/FastColabCopy#readme) - Proje logosu. Minimalist açıklama. Rozetler. GIF demo. Proje Hakkında. Nasıl Kullanılır. Örnekler. Krediler. Ek Örnekler.
+- [ma-shamshiri/Human-Activity-Recognition](https://github.com/ma-shamshiri/Human-Activity-Recognition#readme) - Güzel bir içerik tablosu. Proje logosu. Animasyonlu proje bannerı. Tam proje klasör yapısı. Projenin ne yaptığının açıklayıcı açıklaması. Güzel katkıda bulunanlar bölümü. Kolay gezinme.
+- [ma-shamshiri/Pacman-Game](https://github.com/ma-shamshiri/Pacman-Game#readme) - Güzel bir içerik tablosu. Proje logosu. Animasyonlu proje bannerı. Her bir parçasını göstermek için uygun GIF'ler. Repo'daki tüm proje dosyalarının listesi ve işlevlerinin açıklaması. Tam yürütme talimatı.
+- [ma-shamshiri/Spam-Detector](https://github.com/ma-shamshiri/Spam-Detector#readme) - Tüm proje dosyalarının açıklaması. Proje logosu. Animasyonlu proje bannerı. Özlü proje açıklaması. Açıklayıcı yürütme talimatı.
+- [MananTank/radioactive-state](https://github.com/MananTank/radioactive-state#readme) - Rozetler (sürüm, indirmeler, kapsama, boyut), Twitter Intent, Proje Logosu, Özellik listesi, Motivasyon, Kurulum, GIF'lerle örnekler, Emojiler, Katlanabilir Bölümler, Canlı Demolar, API detaylı kullanım, SSS'ler, Sohbet bağlantısı.
+- [Martinsos/edlib](https://github.com/Martinsos/edlib#readme) - Bilgilendirici rozetler (derleme, sürüm, yayın). Özlü açıklama. Özellik listesi. TOC. Ekran görüntüleri. Derleme ve projenize dahil etme için örneklerle açıklayıcı talimatlar. Hızlı başlangıç yapmanıza yardımcı olacak ortak
+
+kullanımların listesi.
+- [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines#readme) - İçerik tablosu. Açıklayıcı proje açıklaması. Proje logosu. Kolay gezinme için TOC. Ana bölümler ve alt başlıklar. Referanslar ve kaynaklar. İyi belgelenmiş ve ayrıntılı rehberlik.
+- [microsoft/TypeScript-React-Native-Starter](https://github.com/microsoft/TypeScript-React-Native-Starter#readme) - Proje logosu. Açıklayıcı proje açıklaması. Ana özellikler. Kurulum ve kullanım talimatları. Referanslar. Yardım alma yöntemleri.
+- [navdeep-G/samplemod](https://github.com/navdeep-G/samplemod#readme) - Proje logosu. Rozetler (sürüm, Python sürümü, belge durumu, düzenli testler). Proje açıklaması ve ne yaptığı hakkında özlü açıklama. Kolay gezinme için TOC. Kurulum ve kullanım talimatları. Örnekler.
+- [nlknguyen/papercrop](https://github.com/nlknguyen/papercrop#readme) - Açıklayıcı proje açıklaması. Proje logosu. Kolay gezinme için TOC. Özellikler ve avantajlar. Kurulum ve kullanım talimatları. SSS. API belgeleri. Katkı rehberi.
+- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos#readme) - Açıklayıcı proje açıklaması. Proje logosu. İçerik tablosu. Kolay gezinme. Hızlı başlangıç rehberi. Proje özellikleri ve genel bakış. Örnekler ve algoritmalar. Projeye katkıda bulunma kılavuzu.
+- [opsxcq/offline-mail](https://github.com/opsxcq/offline-mail#readme) - Proje logosu. Projenin ne yaptığına dair açıklama. Proje kurulumu, yapılandırma ve kullanımı hakkında açıklayıcı talimatlar. Katkıda bulunma kılavuzu ve geliştirici bilgileri.
+- [pyenv/pyenv](https://github.com/pyenv/pyenv#readme) - Proje logosu. Rozetler (sürüm, belge, test kapsama, lisans). Projenin ne yaptığına dair açıklama. Kolay gezinme için TOC. Kurulum ve kullanım talimatları. Hata ayıklama, SSS ve daha fazlası.
+- [rclone/rclone](https://github.com/rclone/rclone#readme) - Proje logosu. Açıklayıcı proje açıklaması. Faydalı rozetler (sürüm, dökümantasyon, forum, çekme isteği, lisans). Kolay gezinme için TOC. Kurulum ve kullanım talimatları. SSS. Yardım alma yöntemleri.
+- [sindresorhus/got](https://github.com/sindresorhus/got#readme) - Proje logosu. Projenin ne yaptığının açıklaması. Faydalı rozetler (sürüm, indirme, bağış, MIT lisansı). Kolay gezinme için TOC. Kurulum ve kullanım talimatları. Örnekler. API referansı. Sorun bildirme ve çekme isteği şablonları.
+- [styfle/packagephobia](https://github.com/styfle/packagephobia#readme) - Proje logosu. Rozetler (sürüm, boyut, indirme, son değişiklikler, lisans). Projenin ne yaptığına dair açıklama. Hızlı kurulum talimatları. Kullanım örnekleri. API belgeleri.
+- [tannerlinsley/react-query](https://github.com/tannerlinsley/react-query#readme) - Proje logosu. Projenin ne yaptığına dair açıklama. Faydalı rozetler (sürüm, lisans, bağış). Kolay gezinme için TOC. Hızlı başlangıç talimatları. API belgeleri. Örnekler ve rehberler. Sık sorulan sorular. Katkı rehberi.
+- [twbs/bootstrap](https://github.com/twbs/bootstrap#readme) - Proje logosu. Açıklayıcı proje açıklaması. Faydalı rozetler (sürüm, lisan, indirme, kaynaklar). Kolay gezinme için TOC. Kurulum talimatları. Örnekler ve belgeler. Katkı rehberi. SSS. Duyurular ve daha fazlası.
+- [vercel/hyper](https://github.com/vercel/hyper#readme) - Proje logosu. Açıklayıcı proje açıklaması. Faydalı rozetler (sürüm, lisans, MIT, katılımcılar). Kolay gezinme için TOC. Kurulum ve kullanım talimatları. Örnekler ve API referansı. SSS ve diğer kaynaklar.
+- [vlang/v](https://github.com/vlang/v#readme) - Proje logosu. Projenin ne yaptığına dair açıklama. Rozetler (sürüm, lisans, destek). Kolay gezinme için TOC. Kurulum ve kullanım talimatları. Örnekler. Katkı rehberi ve daha fazlası.
+- [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent#readme) - Proje logosu. Projenin ne yaptığına dair açıklama. Faydalı rozetler (sürüm, lisan, indirme). Kolay gezinme için TOC. Kurulum talimatları. Örnekler. API referansı. SSS ve daha fazlası.
+- [zeit/hyper](https://github.com/zeit/hyper#readme) - Proje logosu. Açıklayıcı proje açıklaması. Faydalı rozetler (sürüm, lisans, MIT, katılımcılar). Kolay gezinme için TOC. Kurulum ve kullanım talimatları. Örnekler ve API referansı. SSS ve diğer kaynak
 
 
-## Articles
+## Makaleler
 
-- ["Art of Readme - Learn the art of writing quality READMEs."](https://github.com/hackergrrl/art-of-readme#readme) - *Stephen Whitmore*
-- ["Elegant READMEs"](https://www.yegor256.com/2019/04/23/elegant-readme.html) - *Yegor Bugayenko*
-- ["How To Write A Great README"](https://thoughtbot.com/blog/how-to-write-a-great-readme) - *Caleb Thompson (thoughtbot)*
-- ["Readme Driven Development"](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - *Tom Preston-Werner*
-- ["Top ten reasons why I won’t use your open source project"](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project) - *Adam Stacoviak*
-- ["What I learned from an old GitHub project that won 3,000 Stars in a Week"](https://www.freecodecamp.org/news/what-i-learned-from-an-old-github-project-that-won-3-000-stars-in-a-week-628349a5ee14/) - *KyuWoo Choi*
+- ["README Yazmanın Sanatı - Kaliteli README'ler Nasıl Yazılır?"](https://github.com/hackergrrl/art-of-readme#readme) - *Stephen Whitmore*
+- ["Zarif README'ler"](https://www.yegor256.com/2019/04/23/elegant-readme.html) - *Yegor Bugayenko*
+- ["Harika Bir README Nasıl Yazılır?"](https://thoughtbot.com/blog/how-to-write-a-great-readme) - *Caleb Thompson (thoughtbot)*
+- ["README Odaklı Geliştirme"](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - *Tom Preston-Werner*
+- ["Açık Kaynak Projenizden Neden Faydalanmayacağımın İlk 10 Nedeni"](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project) - *Adam Stacoviak*
+- ["Bir Haftada 3000 Yıldız Kazanan Eski Bir GitHub Projesinden Ne Öğrendim?"](https://www.freecodecamp.org/news/what-i-learned-from-an-old-github-project-that-won-3-000-stars-in-a-week-628349a5ee14/) - *KyuWoo Choi*
 
-## Tools
+## Araçlar:
 
-- [Amazing GitHub Template](https://github.com/dec0dOS/amazing-github-template#readme) - Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
-- [Common Readme](https://github.com/hackergrrl/common-readme#readme) - A common readme style for Node. Includes a guide and a readme generator.
-- [Feedmereadmes](https://github.com/lappleapple/feedmereadmes#readme) - README editing and project analysis/feedback.
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats#readme) - Dynamically generated customizable GitHub cards for README. Stats, extra pins, top languages and WakaTime.
-- [Hall-of-fame](https://github.com/sourcerer-io/hall-of-fame#readme) - Helps show recognition to repo contributors on README. Features new/trending/top contributors. Updates every hour.
-- [Make a README](https://www.makeareadme.com/) - A guide to writing READMEs. Includes an editable template with live Markdown rendering.
-- [README best practices](https://github.com/jehna/readme-best-practices#readme) - A place to copy-paste your README.md from
-- [readme-md-generator](https://github.com/kefranabg/readme-md-generator#readme) - A CLI that generates beautiful README.md files
-- [Readme.so](https://readme.so/) - A simple editor that allows you to quickly add and customize all the sections you need for your project's readme.
-- [READMINE](https://github.com/mhucka/readmine) - A thorough, clear and self-describing README file template for software projects; copy it and edit it as needed.
-- [StackEdit](https://stackedit.io/) - A user-friendly online editor that allows you to quickly customize all the sections you need for your project's readme.
-- [Standard Readme](https://github.com/RichardLitt/standard-readme#readme) - A standard README style specification. Has a generator to help create spec-compliant READMEs, too.
-- [user-statistician](https://github.com/cicirello/user-statistician) - A GitHub Action that generates SVG of detailed GitHub user activity for profile readmes. 
-- [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md#readme) - Simple template to help you cover all the basics.
+- [Amazing GitHub Template](https://github.com/dec0dOS/amazing-github-template#readme) - Projelerinize başlamanız için README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Request'ler ve Actions şablonları içeren kullanışlı bir şablon.
+- [Common Readme](https://github.com/hackergrrl/common-readme#readme) - Node.js için ortak bir README stili. Bir kılavuz ve README oluşturucusu içerir.
+- [Feedmereadmes](https://github.com/lappleapple/feedmereadmes#readme) - README düzenleme ve projenin analizi/geri bildirimi için bir araç.
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats#readme) - README için dinamik olarak oluşturulan özelleştirilebilir GitHub kartları. İstatistikler, ek pinler, en çok kullanılan diller ve WakaTime.
+- [Hall-of-fame](https://github.com/sourcerer-io/hall-of-fame#readme) - README'de katkıda bulunanlara tanınırlık göstermeye yardımcı olur. Yeni/trend/top katkıda bulunanlar. Her saat güncellenir.
+- [Make a README](https://www.makeareadme.com/) - README'lerin nasıl yazılacağına dair bir rehber. Canlı Markdown önizlemesi ile düzenlenebilir bir şablon içerir.
+- [README best practices](https://github.com/jehna/readme-best-practices#readme) - README.md dosyanızı kopyalayıp yapıştırmanız için bir yer.
+- [readme-md-generator](https://github.com/kefranabg/readme-md-generator#readme) - Güzel README.md dosyaları oluşturan bir komut satırı arayüzü.
+- [Readme.so](https://readme.so/) - Projenizin README'sine ekleyebileceğiniz ve özelleştirebileceğiniz tüm bölümleri hızlı bir şekilde oluşturmanıza olanak tanıyan basit bir düzenleyici.
+- [READMINE](https://github.com/mhucka/readmine) - Yazılım projeleri için ayrıntılı, açıklayıcı ve kendini tanımlayan bir README dosyası şablonu; kopyalayıp ihtiyaçlarınıza göre düzenleyebilirsiniz.
+- [StackEdit](https://stackedit.io/) - Tüm proje README'si için hızlı bir şekilde özelleştirebileceğiniz bölümleri içeren kullanıcı dostu bir çevrimiçi düzenleyici.
+- [Standard Readme](https://github.com/RichardLitt/standard-readme#readme) - Standart bir README stil spesifikasyonu. Aynı zamanda spesifikasyona uygun README'ler oluşturmanıza yardımcı olacak bir oluşturucuya da sahiptir.
+- [user-statistician](https://github.com/cicirello/user-statistician) - Profil README'ler için ayrıntılı GitHub kullanıcı etkinliğini SVG olarak oluşturan bir GitHub projesi.
 
-## Creating GIFs
+## GIFler Oluşturma
 
-Embedding an animated gif in your README quickly demonstrates what your project does and catches the reader's eye. Here are a few programs that can help you quickly create gifs for your project:
+README'nize animasyonlu bir gif eklemek, projenizin ne yaptığını hızlı bir şekilde gösterir ve okuyucunun dikkatini çeker. İşte projeniz için hızlı bir şekilde gif oluşturmanıza yardımcı olabilecek birkaç program:
 
-- [Gifox](https://gifox.app) - **$14.99** - Clean UI, hotkeys, lots of advanced features.
-- [Gifski](https://github.com/sindresorhus/Gifski#readme) - **FREE** - More vivid colors than the rest, but still keep size low.
-- [Giphy Capture](https://giphy.com/apps/giphycapture) - **FREE** - Easy to upload to giphy.com, slightly annoying UX.
-- [LICEcap](https://www.cockos.com/licecap/) - **FREE** - Less intuitive, more features.
-- [Peek](https://github.com/phw/peek#readme) - **FREE** - Simple and easy to use for Linux users.
-- [Recordit](https://recordit.co/) - **FREE** - Simple, clean UI, but auto-uploads to Recordit.
-- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/) - **FREE** - Open source, customizable UI and easily editable GIFs, easy to get started.
-- [terminalizer](https://github.com/faressoft/terminalizer) - **FREE** - Record your terminal and generate animated gif images or share a web player.
-- [ttystudio](https://github.com/chjj/ttystudio#readme) - **FREE** - For commandline tools, a terminal-to-gif recorder minus the headaches.
-- [vhs](https://github.com/charmbracelet/vhs) - **FREE** - Generate beautiful terminal gifs with a simple scripting language
+- [Gifox](https://gifox.app) - **14,99 $** - Temiz kullanıcı arayüzü, kısayol tuşları, birçok gelişmiş özellik.
+- [Gifski](https://github.com/sindresorhus/Gifski#readme) - **ÜCRETSİZ** - Diğerlerine göre daha canlı renkler, ancak dosya boyutunu düşük tutuyor.
+- [Giphy Capture](https://giphy.com/apps/giphycapture) - **ÜCRETSİZ** - Giphy.com'a kolayca yükleme yapabilen, biraz sıkıcı kullanıcı deneyimi.
+- [LICEcap](https://www.cockos.com/licecap/) - **ÜCRETSİZ** - Daha az sezgisel, daha fazla özellik.
+- [Peek](https://github.com/phw/peek#readme) - **ÜCRETSİZ** - Linux kullanıcıları için basit ve kullanımı kolay.
+- [Recordit](https://recordit.co/) - **ÜCRETSİZ** - Basit, temiz bir kullanıcı arayüzü, ancak otomatik olarak Recordit'e yükleme yapıyor.
+- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/) - **ÜCRETSİZ** - Açık kaynaklı, özelleştirilebilir kullanıcı arayüzü ve kolayca düzenlenebilir GIF'ler, hızlı başlangıç için ideal.
+- [terminalizer](https://github.com/faressoft/terminalizer) - **ÜCRETSİZ** - Terminalinizi kaydedin ve terminalde çalışan GIF resimleri veya web oynatıcısı oluşturun.
+- [ttystudio](https://github.com/chjj/ttystudio#readme) - **ÜCRETSİZ** - Komut satırı araçları için, baş ağrılarını ortadan kaldıran bir terminalden GIF kaydedici.
+- [vhs](https://github.com/charmbracelet/vhs) - **ÜCRETSİZ** - Basit bir betik diliyle güzel terminal GIF'leri oluşturun.
 
-## Get Feedback
+## Geri bildirimler
 
-- [feedmereadmes](https://github.com/LappleApple/feedmereadmes#readme) - Free README editing+feedback to make your open-source projects grow. See the README maturity model to help you keep going.
-- [maintainer.io](https://maintainer.io/) - Free README standardization and feedback, if you click on 'Book an audit'.
+- [feedmereadmes](https://github.com/LappleApple/feedmereadmes#readme) - README düzenleme ve geri bildirim almak için ücretsiz bir hizmet. Projelerinizin olgunlaşma düzeyi hakkında size rehberlik etmek için README olgunluk modelini içerir.
+- [maintainer.io](https://maintainer.io/) - Ücretsiz README standartlaştırma ve geri bildirim alma hizmeti, 'Audit rezervasyonu yap' seçeneğine tıklarsanız.
 
-## Contribute
+## Katkı
 
-Contributions are always welcome!
-Please read the [contribution guidelines](contributing.md) first.
+Her zaman katkılarınızı bekliyorum!
+Lütfen önce [katkı rehberine](contributing.md) göz atın.
 
-## License
+## Lisans
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Matias Singers](https://mts.io) has waived all copyright and related or neighboring rights to this work.
+Bu çalışma ile ilgili tüm telif hakları ve ilgili veya komşu hakları, mümkün olan en geniş ölçüde, [Matias Singers](https://mts.io) tarafından feragat edilmiştir.
