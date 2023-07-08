@@ -1,16 +1,16 @@
-# Contribution Guidelines
+# Katkı Rehberi
 
-Please ensure your pull request adheres to the following guidelines:
+Lütfen pull request'inizin aşağıdaki kurallara uyduğundan emin olun:
 
-- Alphabetize your entry.
-- Search previous suggestions before making a new one, as yours may be a duplicate.
-- Suggested READMEs should be beautiful or stand out in some way.
-- Make an individual pull request for each suggestion.
-- New categories, or improvements to the existing categorization are welcome.
-- Keep descriptions short and simple, but descriptive.
-- Start the description with a capital and end with a full stop/period.
-- Check your spelling and grammar.
-- Make sure your text editor is set to remove trailing whitespace.
-- Use the `#readme` anchor for GitHub READMEs to link them directly
+- Girişinizi alfabetik olarak sıralayın.
+- Yeni bir öneride bulunmadan önce önceki önerileri arayın, çünkü öneriniz tekrar olabilir.
+- Önerilen README dosyaları, güzel veya bir şekilde dikkat çekici olmalıdır.
+- Her öneri için ayrı bir pull request oluşturun.
+- Yeni kategoriler veya mevcut kategorilerin iyileştirilmesi kabul edilir.
+- Açıklamaları kısa ve basit, ancak açıklayıcı tutun.
+- Açıklamaya büyük harfle başlayın ve bir nokta ile bitirin.
+- Yazım ve dilbilgisi kurallarına dikkat edin.
+- Metin düzenleyicinizin sondaki boşlukları kaldırmak için yapılandırıldığından emin olun.
+- GitHub README dosyaları için doğrudan bağlantı yapabilmek için `#readme` bağlantı noktasını kullanın.
 
-Thank you for your suggestions!
+Önerileriniz için teşekkür ederiz!
